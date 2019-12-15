@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoXamarin.Views.Login"
+             Title="Demo - Login futebolístico."
+             >
+
+    <StackLayout>
+        <Label x:Name="Lbl_Usuario" Text="Usuario"></Label>
+        <Entry x:Name="Entry_Usuario" Placeholder="Usuario"/>
+        <Label x:Name = "Lbl_PerguntaSecreta" Text = "Qual time brasileiro não tem mundial ?"></Label>
+        <Label x:Name = "Lbl_RespostaSecreta" Text = "Resposta secreta"></Label>
+        <Entry x:Name = "Entry_RespostaSecreta" Placeholder = "Dica: começa com P e termina com S"/>
+        <Button x:Name = "Btn_Responder" Text = "Responder" Clicked="Logar"/>
+    </StackLayout>
+</ContentPage>
