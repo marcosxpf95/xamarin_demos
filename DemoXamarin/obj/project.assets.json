@@ -561,11 +561,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marcosxavier/Projects/DemoXamarin/DemoXamarin/DemoXamarin.csproj",
+      "projectUniqueName": "/Users/marcosxavier/Desktop/github_projects/xamarin_demos/DemoXamarin/DemoXamarin.csproj",
       "projectName": "DemoXamarin",
-      "projectPath": "/Users/marcosxavier/Projects/DemoXamarin/DemoXamarin/DemoXamarin.csproj",
+      "projectPath": "/Users/marcosxavier/Desktop/github_projects/xamarin_demos/DemoXamarin/DemoXamarin.csproj",
       "packagesPath": "/Users/marcosxavier/.nuget/packages/",
-      "outputPath": "/Users/marcosxavier/Projects/DemoXamarin/DemoXamarin/obj/",
+      "outputPath": "/Users/marcosxavier/Desktop/github_projects/xamarin_demos/DemoXamarin/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

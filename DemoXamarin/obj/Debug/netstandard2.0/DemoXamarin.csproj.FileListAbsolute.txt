@@ -12,3 +12,17 @@
 /Users/marcosxavier/Projects/DemoXamarin/DemoXamarin/obj/Debug/netstandard2.0/DemoXamarin.dll
 /Users/marcosxavier/Projects/DemoXamarin/DemoXamarin/obj/Debug/netstandard2.0/ref/DemoXamarin.dll
 /Users/marcosxavier/Projects/DemoXamarin/DemoXamarin/obj/Debug/netstandard2.0/DemoXamarin.pdb
+/Users/marcosxavier/Desktop/github_projects/xamarin_demos/DemoXamarin/bin/Debug/netstandard2.0/DemoXamarin.deps.json
+/Users/marcosxavier/Desktop/github_projects/xamarin_demos/DemoXamarin/bin/Debug/netstandard2.0/DemoXamarin.dll
+/Users/marcosxavier/Desktop/github_projects/xamarin_demos/DemoXamarin/bin/Debug/netstandard2.0/ref/DemoXamarin.dll
+/Users/marcosxavier/Desktop/github_projects/xamarin_demos/DemoXamarin/bin/Debug/netstandard2.0/DemoXamarin.pdb
+/Users/marcosxavier/Desktop/github_projects/xamarin_demos/DemoXamarin/obj/Debug/netstandard2.0/DemoXamarin.csprojAssemblyReference.cache
+/Users/marcosxavier/Desktop/github_projects/xamarin_demos/DemoXamarin/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/marcosxavier/Desktop/github_projects/xamarin_demos/DemoXamarin/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/marcosxavier/Desktop/github_projects/xamarin_demos/DemoXamarin/obj/Debug/netstandard2.0/Views/Login.xaml.g.cs
+/Users/marcosxavier/Desktop/github_projects/xamarin_demos/DemoXamarin/obj/Debug/netstandard2.0/DemoXamarin.AssemblyInfoInputs.cache
+/Users/marcosxavier/Desktop/github_projects/xamarin_demos/DemoXamarin/obj/Debug/netstandard2.0/DemoXamarin.AssemblyInfo.cs
+/Users/marcosxavier/Desktop/github_projects/xamarin_demos/DemoXamarin/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/marcosxavier/Desktop/github_projects/xamarin_demos/DemoXamarin/obj/Debug/netstandard2.0/DemoXamarin.dll
+/Users/marcosxavier/Desktop/github_projects/xamarin_demos/DemoXamarin/obj/Debug/netstandard2.0/ref/DemoXamarin.dll
+/Users/marcosxavier/Desktop/github_projects/xamarin_demos/DemoXamarin/obj/Debug/netstandard2.0/DemoXamarin.pdb
